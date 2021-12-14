@@ -1,5 +1,5 @@
 # kalman-python-positioning
-This repo express the Kalman filter implementation in Python for wireless positioning and navigation system especially for UWB-based localization. The Kalman class was originally written for smoothing the location data achieved from UWB-based positioning in [this repo](https://github.com/cliansang/uwb-tracking-ros). The example use-case of the filter includes both the simulated data and the real-world data extracted from the UWB-hardwares namely DWM1001 from Decawave. 
+This repo express the Kalman filter implementation in Python for wireless positioning and navigation system especially for UWB-based localization. The Kalman class was originally written for smoothing the location data achieved from UWB-based positioning in [our previous repo](https://github.com/cliansang/uwb-tracking-ros). The example use-case of the filter includes both the simulated data and the real-world data extracted from the UWB-hardwares namely DWM1001 from Decawave. 
 
 The use-case and system integration ((not necessarily in Python) of Kalman related filters in UWB-based positioning and navigation can be found in the following our papers:  
 (i) [A Bidirectional Object Tracking and Navigation System using a True-Range Multilateration Method](https://ieeexplore.ieee.org/document/8911811)  
