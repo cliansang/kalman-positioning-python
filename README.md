@@ -5,6 +5,6 @@ The use-case and system integration (not necessarily in Python) of Kalman relate
 (i) [A Bidirectional Object Tracking and Navigation System using a True-Range Multilateration Method](https://ieeexplore.ieee.org/document/8911811)  
 (ii) [A Comparative Study of UWB-based True-Range Positioning Algorithms using Experimental Data](https://ieeexplore.ieee.org/document/8970249)
 
-The dependency of the Kalman class is NumPy while matplotlib is used for the visualization of the sample data. simply run ``` python example_sim_data.py ``` or the experimental data one to see the sample data results. The following image show the sample result based on simulated data.  
+The dependency of the Kalman class is NumPy while matplotlib is used for the visualization of the sample data. Simply run ``` python example_sim_data.py ``` or the experimental data one to see the sample data results. The following image shows the sample result based on the simulated data.  
 
 ![KF_sample](https://user-images.githubusercontent.com/18302290/146093193-2b4a2a97-7437-4b26-bcee-91062ea860d2.jpeg)
